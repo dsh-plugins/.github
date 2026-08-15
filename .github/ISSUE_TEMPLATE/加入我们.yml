@@ -1,0 +1,79 @@
+name: 加入我们
+description: 提交你的 dsh 插件作品，申请加入 dsh-plugins 组织
+title: "[加入我们] <你的昵称> - <插件名称>"
+labels: ["加入我们"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🎉 欢迎加入 dsh-plugins
+
+        感谢你对 dsh 插件生态的关注！请填写以下基本信息，我们会尽快审核并回复你。
+
+        > 注意：本组织非 DeepSeek 官方组织，与 DeepSeek 无任何关联。
+  - type: input
+    id: nickname
+    attributes:
+      label: 你的昵称
+      description: 我们该如何称呼你？
+      placeholder: 例如：小 D
+    validations:
+      required: true
+  - type: input
+    id: github-username
+    attributes:
+      label: GitHub 用户名
+      description: 你的 GitHub 账号，便于审核通过后邀请你加入组织。
+      placeholder: 例如：dsh-fan
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: 联系方式（选填）
+      description: 邮箱、Telegram、微信等，方便审核后与你联系。
+      placeholder: 例如：me@example.com
+    validations:
+      required: false
+  - type: input
+    id: repo-url
+    attributes:
+      label: dsh 插件作品仓库地址
+      description: 你的插件源码仓库的 GitHub 地址，请填写完整 URL。
+      placeholder: https://github.com/yourname/your-plugin
+    validations:
+      required: true
+  - type: input
+    id: plugin-name
+    attributes:
+      label: 插件名称
+      description: 你的插件叫什么名字？
+      placeholder: 例如：dsh-xxx
+    validations:
+      required: true
+  - type: textarea
+    id: plugin-intro
+    attributes:
+      label: 插件简介
+      description: 用几句话介绍插件的功能与用途。
+      placeholder: 这个插件可以……
+    validations:
+      required: true
+  - type: textarea
+    id: plugin-extra
+    attributes:
+      label: 其他想说的话（选填）
+      description: 例如使用场景、截图链接、文档地址、后续规划等。
+    validations:
+      required: false
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: 确认事项
+      options:
+        - label: 我的插件仓库是公开可访问的
+          required: true
+        - label: 我的仓库包含 README 说明
+          required: false
+        - label: 我已了解本组织与 DeepSeek 无关联
+          required: true
