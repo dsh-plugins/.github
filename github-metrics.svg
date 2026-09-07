@@ -17,7 +17,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            Joined GitHub 22 days ago
+                            Joined GitHub 23 days ago
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -159,14 +159,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="216.89442217541952" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="216.89442217541952" y="0" width="112.573077315035" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="329.4674994904545" y="0" width="65.639615463007" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="395.1071149534615" y="0" width="60.117951287451596" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.2250662409131" y="0" width="1.7567599701066647" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="456.9818262110198" y="0" width="1.4751002106121338" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.4569264216319" y="0" width="1.3204022012364969" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.7773286228684" y="0" width="0.22267137713159862" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="216.1821805409601" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="216.1821805409601" y="0" width="112.2034079073167" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="328.3855884482768" y="0" width="65.42406696464658" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="393.8096554129234" y="0" width="61.43109083760404" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.2407462505275" y="0" width="1.750991091497838" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="456.9917373420253" y="0" width="1.470256251166519" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.46199359319183" y="0" width="1.3160662417751152" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.77805983496694" y="0" width="0.22194016503308153" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -237,7 +237,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dsh-plugins/dsh-loader</span>
-                                        <span>created 18 days ago</span>
+                                        <span>created 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A version‑aware adapter registry that decouples third‑party Cordis plugins from dsh’s internal service names, paths, and RPC internals. 基于版本感知适配器注册表，为 dsh Cordis 插件提供运行时兼容层，使第三方插件与内部服务名、模块路径及 RPC 细节解耦。</div>
@@ -290,7 +290,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dsh-plugins/dsh-launcher</span>
-                                        <span>created 12 days ago</span>
+                                        <span>created 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A desktop launcher for running multiple DeepSeek Harness (DSH) versions and instances side by side. 多版本、多实例的 DeepSeek Harness (DSH) 桌面启动器。</div>
