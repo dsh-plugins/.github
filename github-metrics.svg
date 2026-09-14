@@ -237,7 +237,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dsh-plugins/dsh-loader</span>
-                                        <span>created 25 days ago</span>
+                                        <span>created 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A version‑aware adapter registry that decouples third‑party Cordis plugins from dsh’s internal service names, paths, and RPC internals. 基于版本感知适配器注册表，为 dsh Cordis 插件提供运行时兼容层，使第三方插件与内部服务名、模块路径及 RPC 细节解耦。</div>
@@ -290,7 +290,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dsh-plugins/dsh-launcher</span>
-                                        <span>created 19 days ago</span>
+                                        <span>created 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A desktop launcher for running multiple DeepSeek Harness (DSH) versions and instances side by side. 多版本、多实例的 DeepSeek Harness (DSH) 桌面启动器。</div>
