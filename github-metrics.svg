@@ -60,11 +60,11 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="26.93877551020408" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="26.93877551020408" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="26.93877551020408" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="26.93877551020408" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="26.93877551020408" y="0" width="193.0612244897959" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="44.81481481481481" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="44.81481481481481" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="44.81481481481481" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="44.81481481481481" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="44.81481481481481" y="0" width="175.1851851851852" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
@@ -75,7 +75,7 @@
                                     <path fill="#238636" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                     <path fill="#238636" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                 </svg>
-                                <span class="no-wrap">6 <small>open</small></span>
+                                <span class="no-wrap">11 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -159,14 +159,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="181.07892568472363" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="181.07892568472363" y="0" width="132.13273677653422" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="313.2116624612578" y="0" width="78.61728653549304" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="391.82894899675085" y="0" width="63.41793490450042" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="455.2468839012513" y="0" width="1.5395644100046555" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="456.7864483112559" y="0" width="1.4341628486361337" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="458.22061115989203" y="0" width="1.0779342736024309" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.2985454334945" y="0" width="0.7014545665054872" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="183.84594475306503" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="183.84594475306503" y="0" width="130.8219222276144" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="314.66786698067943" y="0" width="77.83736866274356" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="392.50523564342296" y="0" width="62.78880124872927" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="455.29403689215223" y="0" width="1.5242912575909109" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="456.81832814974314" y="0" width="1.4199353258179854" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="458.2382634755611" y="0" width="1.0672406940771162" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.3055041696382" y="0" width="0.694495830361721" height="8" fill="#012456"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -290,7 +290,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dsh-plugins/dsh-launcher</span>
-                                        <span>created 27 days ago</span>
+                                        <span>created 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A desktop launcher for running multiple DeepSeek Harness (DSH) versions and instances side by side. 多版本、多实例的 DeepSeek Harness (DSH) 桌面启动器。</div>
@@ -318,7 +318,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        43
+                                        48
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
