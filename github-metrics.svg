@@ -17,7 +17,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            Joined GitHub 2 months ago
+                            Joined GitHub 3 months ago
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -159,14 +159,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="184.5762059661307" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="184.5762059661307" y="0" width="114.32523481841416" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="298.90144078454483" y="0" width="104.52034258355144" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="403.42178336809627" y="0" width="47.1702190354582" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="450.5920024035545" y="0" width="6.398508563625824" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="456.99051096718034" y="0" width="1.2445481876082127" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="458.23505915478853" y="0" width="0.9681394215676645" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.20319857635616" y="0" width="0.7968014236438117" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="185.78278383202036" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="185.78278383202036" y="0" width="113.62623012825568" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="299.40901396027607" y="0" width="104.35869862326703" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="403.7677125835431" y="0" width="46.8818119799734" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="450.6495245635165" y="0" width="6.359386951471713" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="457.0089115149882" y="0" width="1.2369388000425705" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="458.2458503150308" y="0" width="0.9622200460467832" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.2080703610776" y="0" width="0.7919296389224716" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -311,7 +311,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        5
+                                        6
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
