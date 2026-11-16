@@ -1,0 +1,43 @@
+name: Feature Request - 功能请求
+description: Suggest an improvement to this project - 为当前项目提出改进建议
+title: "[Feature] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please search this repository's issues before submitting a new request.
+        提交前请先搜索当前仓库的 Issues，确认没有相同的功能请求。
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or use case - 问题或使用场景
+      description: What problem would this feature solve? - 这个功能要解决什么问题？
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed feature - 期望的功能
+      description: Describe the desired behavior and its benefits. Include examples or screenshots if helpful. - 请描述期望行为及其价值，可附示例或截图。
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives and additional context - 替代方案与补充信息
+      description: Describe any workarounds or alternative approaches you considered. - 请说明现有的临时解决方法或考虑过的其它方案。
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks - 检查项
+      options:
+        - label: I searched this repository's issues and found no duplicate request. 我已搜索当前仓库的 Issues，确认没有重复请求。
+          required: true
+        - label: I described the use case and the expected benefit. 我已说明使用场景及预期收益。
+          required: true

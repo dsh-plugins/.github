@@ -1,0 +1,89 @@
+name: Bug Report - Bug 反馈
+description: Report a problem with this project - 反馈当前项目的问题
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please search this repository's issues before submitting a new report.
+        提交前请先搜索当前仓库的 Issues，确认没有相同的问题。
+
+  - type: dropdown
+    id: system
+    attributes:
+      label: Operating system - 操作系统
+      options:
+        - Windows
+        - macOS
+        - Linux
+        - Android
+        - iOS
+        - Other / Not applicable - 其它 / 不适用
+    validations:
+      required: true
+
+  - type: input
+    id: project_version
+    attributes:
+      label: Project version - 项目版本
+      description: |
+        Provide the affected plugin, application or tool version, release tag, or commit hash. For a hosted service, provide its URL and when the problem occurred.
+        请填写相关插件、应用或工具的版本号、发布标签或提交哈希。在线服务请提供地址及问题发生时间。
+      placeholder: e.g. 1.2.3, 1.2.4-dev.123 or a commit hash
+    validations:
+      required: true
+
+  - type: input
+    id: environment
+    attributes:
+      label: Runtime and environment - 运行环境
+      description: |
+        If relevant, include the DSH version and profile, browser, Node.js version, or installation method. Enter N/A if not applicable.
+        如适用，请补充 DSH 版本与 profile、浏览器、Node.js 版本或安装方式；不适用时填写 N/A。
+      placeholder: e.g. DSH version / web profile / browser version
+    validations:
+      required: false
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior - 实际行为
+      description: Describe the problem and its impact. - 请描述遇到的问题及其影响。
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior - 预期行为
+      description: Describe what you expected to happen. - 请描述你期望得到的结果。
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce - 复现步骤
+      description: Provide the steps and a minimal example if possible. Explain if the problem is intermittent. - 请尽量提供详细步骤和最小示例；偶发问题请注明。
+    validations:
+      required: false
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs and screenshots - 日志与截图
+      description: |
+        Include relevant terminal output, browser console logs or screenshots. Remove API keys, tokens and other private information before uploading.
+        请附上相关终端输出、浏览器控制台日志或截图，上传前删除 API Key、Token 等隐私信息。
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks - 检查项
+      options:
+        - label: I searched this repository's issues and found no duplicate. 我已搜索当前仓库的 Issues，确认没有重复问题。
+          required: true
+        - label: I provided the affected version and enough detail to investigate. 我已提供受影响版本及足够的问题细节。
+          required: true
